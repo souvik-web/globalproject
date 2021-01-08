@@ -1,0 +1,63 @@
+@font-face {
+    font-family: 'proxima_novalight';
+    src: url('fonts/proximanova-ligh-webfont.eot');
+    src: url('fonts/proximanova-ligh-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/proximanova-ligh-webfont.woff2') format('woff2'),
+         url('fonts/proximanova-ligh-webfont.woff') format('woff'),
+         url('fonts/proximanova-ligh-webfont.ttf') format('truetype'),
+         url('fonts/proximanova-ligh-webfont.svg#proxima_novalight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'proxima_nova_rgregular';
+    src: url('fonts/mark_simonson_-_proxima_nova_regular-webfont.eot');
+    src: url('fonts/mark_simonson_-_proxima_nova_regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/mark_simonson_-_proxima_nova_regular-webfont.woff2') format('woff2'),
+         url('fonts/mark_simonson_-_proxima_nova_regular-webfont.woff') format('woff'),
+         url('fonts/mark_simonson_-_proxima_nova_regular-webfont.ttf') format('truetype'),
+		 url('fonts/mark_simonson_-_proxima_nova_regular-webfont.svg#proxima_nova_rgregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'proxima_nova_rgbold';
+    src: url('fonts/proximanova-bold-webfont.eot');
+    src: url('fonts/proximanova-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/proximanova-bold-webfont.woff2') format('woff2'),
+         url('fonts/proximanova-bold-webfont.woff') format('woff'),
+         url('fonts/proximanova-bold-webfont.ttf') format('truetype'),
+         url('fonts/proximanova-bold-webfont.svg#proxima_nova_rgbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'proxima_novabold_italic';
+    src: url('fonts/proximanova-boldit-webfont.eot');
+    src: url('fonts/proximanova-boldit-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/proximanova-boldit-webfont.woff2') format('woff2'),
+         url('fonts/proximanova-boldit-webfont.woff') format('woff'),
+         url('fonts/proximanova-boldit-webfont.ttf') format('truetype'),
+         url('fonts/proximanova-boldit-webfont.svg#proxima_novabold_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'proxima_novaextrabold';
+    src: url('fonts/proximanova-extrabold-webfont.eot');
+    src: url('fonts/proximanova-extrabold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/proximanova-extrabold-webfont.woff2') format('woff2'),
+         url('fonts/proximanova-extrabold-webfont.woff') format('woff'),
+         url('fonts/proximanova-extrabold-webfont.ttf') format('truetype'),
+         url('fonts/proximanova-extrabold-webfont.svg#proxima_novaextrabold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
